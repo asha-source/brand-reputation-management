@@ -103,3 +103,7 @@ Monitor public sentiment
 Detect negative reviews
 
 Build a data-driven reputation strategy
+
+output:
+
+[brand_sentiment_report.csv](https://github.com/user-attachments/files/21126374/brand_sentiment_report.csv)
